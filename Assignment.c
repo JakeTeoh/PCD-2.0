@@ -6,4 +6,5 @@
 
 void main() {
 	printf("Hi");
+	printf("Jake was here");
 }
